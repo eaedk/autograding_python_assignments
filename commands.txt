@@ -35,4 +35,4 @@ roject/basic_demo/app.py
 python -m pytest -v
 
 # Freeze packages' version
-pip3 freeze > requirements_v.txt
+python -m pip freeze > requirements_versioned.txt
