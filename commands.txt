@@ -34,5 +34,7 @@ python assignments/palindrome/main.py
 # Run tests
 python -m pytest -v
 
+python -m pytest tests/palindrome/test_solution_with_valid_inputs.py -v
+
 # Freeze packages' version
 python -m pip freeze > requirements_versioned.txt
