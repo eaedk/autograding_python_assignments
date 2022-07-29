@@ -18,7 +18,7 @@ You can solve a programming problem and automatically check if your proposal is 
 [streamlit](https://streamlit.io/)
 -->
 
-You will have a minimal interface demo with [Gradio](https://gradio.app/) & [Streamlit](https://streamlit.io/), this will just serve you to make sure that everything works correctly. Find the available assignments bellow :
+Explore Python3 programming by taking some exercises and build your skills. Find the available assignments bellow :
 - [Palindrome](https://github.com/eaedk/autograding_python_assignments/blob/master/assignments/palindrome) ;
       
       python assignments/palindrome/main.py
