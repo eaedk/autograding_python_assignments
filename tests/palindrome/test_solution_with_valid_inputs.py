@@ -1,7 +1,7 @@
 from assignments.palindrome.utils import is_palindrome
 
 
-def test_solution():  # _with_valid_inputs
+def test_solution_with_valid_inputs():  #
     valid_sequences = [
         "kayak",
         "laval",
