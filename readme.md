@@ -105,7 +105,7 @@ C:.
 Here are some ressources you would read to have a good understanding of Python3 programming :
 - [Get started with Python3]()
 
-- [Python3 memento ]()
+- [Python3 memento](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3.pdf)
 
 
 ## Contributing
