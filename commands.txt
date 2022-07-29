@@ -27,8 +27,8 @@ python -m pip install -qr requirements.txt
 
 
 # Normal app execution
-## Assignment_001
-roject/basic_demo/app.py
+## Palindrome
+python assignments/palindrome/main.py
 
 
 # Run tests

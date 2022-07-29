@@ -19,7 +19,9 @@ You can solve a programming problem and automatically check if your proposal is 
 -->
 
 You will have a minimal interface demo with [Gradio](https://gradio.app/) & [Streamlit](https://streamlit.io/), this will just serve you to make sure that everything works correctly. Find the available assignments bellow :
-- ;
+- [Palindrome](https://github.com/eaedk/autograding_python_assignments/blob/master/assignments/palindrome) ;
+      
+      python assignments/palindrome/main.py
 - .
 
 ## Installation
@@ -48,8 +50,6 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         
       python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
-- Run test :
-      python -m pytest -v
   
 ### Automatised Setup
 
@@ -61,6 +61,11 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         
       git clone https://github.com/eaedk/autograding_python_assignments.git; cd autograding_python_assignments; python3 -m venv venv; source venv/bin/activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
+## Run the tests
+To run all the tests and have an overview of the correct solution, use the command bellow:
+
+    python -m pytest -v
+
 <!-- ## Structure
 C:.
 ├───.pytest_cache
@@ -69,14 +74,7 @@ C:.
 ├───gradio_project
 │   ├───salary 
 │   └───titanic
-├───ml
-│   ├───salary
-│   └───titanic
-├───streamlit_project
-└───tests
-    ├───gradio_project
-    ├───ml
-    └───streamlit_project
+
 -->
 
 <!-- ## Screenshots -->
